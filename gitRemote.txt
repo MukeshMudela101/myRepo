@@ -1,0 +1,10 @@
+How to push your first code in GitHub
+
+1. Github account  
+2. Empty Repo.  
+3. local system  
+	1. git config --global user.name "loveBabbar"  
+	2. git config --global user.email "loveBabbar3@gmail.com" 
+4. git push -u origin master  
+	4.1. username? -> loveBabbar  
+	4.2. password? -> dhp_wsgZockluU04bRucsMF5Kh2HAnKAau114zyYv  
